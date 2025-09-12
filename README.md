@@ -1,6 +1,6 @@
-# Coding-Raja-Technologies-Internship 
 
-**Movie Recommendation System**
+
+#Movie Recommendation System
 
 **Overview**
 
